@@ -1,4 +1,5 @@
 📊 Netflix Movie Data Analysis using Python:
+
 This project is a comprehensive exploratory data analysis (EDA) on a Netflix movie dataset containing over 9,000 entries. It was created as a hands-on exercise to apply Python-based data analysis and visualization skills, uncover insights, and simulate solving real-world business questions.
 
 🔍 Project Objectives:

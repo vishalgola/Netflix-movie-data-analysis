@@ -18,7 +18,10 @@ Seaborn
 Jupyter Notebook
 
 📌 Key Insights:
-
+🎭 Drama is the most frequent genre in the dataset.
+🌟 "Spider-Man: No Way Home" is the most popular movie.
+🎶 "The United States Thread" has the lowest popularity.
+🎥 2020 had the highest number of movie releases.
 
 🧠 Skills Demonstrated:
 Data Cleaning and Preprocessing

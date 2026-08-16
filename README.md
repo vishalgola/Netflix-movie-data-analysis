@@ -7,6 +7,7 @@ Analyze movie genres, popularity, and ratings on Netflix.
 Identify key patterns and trends using visualizations.
 Gain insights to assist in data-driven decision-making.
 
+📁 Dataset:
 mymoviedb.csv (contains Netflix movie data: titles, genres, vote averages, popularity scores, and more)
 
 🛠️ Tools & Libraries:
